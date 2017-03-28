@@ -1,0 +1,12 @@
+.box{
+width:25%;
+height:25%;
+color:green;
+background-color: aquamarine;
+float: left;
+border: 10px;
+padding-bottom: 10px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
